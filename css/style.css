@@ -10,17 +10,12 @@ p.secondary-text {
   	color:  grey;
 }
 
-.gl-container {
-	height: 40px;
-	width: 40px;
-}
-
 .text-primary-orange {
 	color: #f76707;
 }
 
-.text-primary-blue {
-	color: blue;
+.grayscale-filter {
+  filter: url(#grayscale);
 }
 
 .bg-cartoon-image {
