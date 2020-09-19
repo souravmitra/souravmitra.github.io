@@ -1,0 +1,43 @@
+p.primary-text {
+	font-family: 'Lato', serif;
+  	font-size: 40px;
+  	color:  grey;
+}
+
+p.secondary-text {
+	font-family: 'Lato', serif;
+  	font-size: 25px;
+  	color:  grey;
+}
+
+.gl-container {
+	height: 40px;
+	width: 40px;
+}
+
+.text-primary-orange {
+	color: #f76707;
+}
+
+.text-primary-blue {
+	color: blue;
+}
+
+.bg-cartoon-image {
+  background-image: url(../images/sourav_cartoon.png);
+  height: 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.svg-inline--fa {
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -.125em; }
+
+.fa-2x {
+  font-size: 2em; }
